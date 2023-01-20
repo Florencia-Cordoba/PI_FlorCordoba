@@ -1,0 +1,8 @@
+div{
+    background-color: #a1b5cb; /*Color de fondo*/
+}
+
+app-social{ /*Iconos de redes sociales*/
+    float: right;
+    margin-top: 25px;
+}
