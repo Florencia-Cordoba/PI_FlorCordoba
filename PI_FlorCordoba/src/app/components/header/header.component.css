@@ -5,4 +5,5 @@ div{
 app-social{ /*Iconos de redes sociales*/
     float: right;
     margin-top: 25px;
+    margin-right: 25px;
 }
